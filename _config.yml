@@ -10,8 +10,8 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-theme: minimal-mistakes-jekyll
-# remote_theme           : "mmistakes/minimal-mistakes"
+# theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "aqua" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Strange Quark is the repository for the creative projects of Michael C. Davis,
   including role-playing game supplements for OSR RPGs such as Dungeon Crawl
   Classics (DCC RPG), Castles & Crusades and other D&D retroclones.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl                  : "" # the subpath of your site, e.g. /blog
 url: "https://www.strangequark.eu" # the base hostname & protocol for your site, e.g. http://example.com
 repository: slithy/slithy.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -131,29 +131,19 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Mastodon"
+      icon: "fab fa-mastodon"
+      url: "https://mastodon.social/@slithy"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+    - label: "Mastodon"
+      icon: "fab fa-mastodon"
+      url: "https://mastodon.social/@slithy"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/slithy"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
-
 
 # Reading Files
 include:
@@ -228,6 +218,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins (previously gems:)
 plugins:
+  - jekyll-remote-theme
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist

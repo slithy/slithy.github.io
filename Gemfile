@@ -40,4 +40,6 @@ gem "webrick", "~> 1.8"
 # Minimal Mistakes theme, from https://mmistakes.github.io/minimal-mistakes/
 gem "minimal-mistakes-jekyll"
 
+gem "jekyll-remote-theme", "~> 0.4.3"
+
 gem "faraday-retry", "~> 2.2"
