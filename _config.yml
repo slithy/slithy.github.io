@@ -18,7 +18,7 @@ minimal_mistakes_skin: "aqua" # "default", "air", "aqua", "contrast", "dark", "d
 locale: "en-GB"
 title: Strange Quark Games
 title_separator: "|"
-subtitle                 : # "Creative works from the brain of Michael C. Davis"
+subtitle: "Creative works from the brain of Michael C. Davis"
 name: "Michael Davis"
 description: >- # this means to ignore newlines until "baseurl:"
   Strange Quark is the repository for the creative projects of Michael C. Davis,
@@ -97,22 +97,20 @@ analytics:
 author:
   name: "Michael C. Davis"
   avatar: "/assets/images/MichaelDavis.jpg"
-  bio              : "I am an **amazing** person."
+  bio: "Computer Scientist, Software Engineer, Game Master."
+
   location: "Geneva, Switzerland"
   email            :
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/slithy"
     - label: "Mastodon"
       icon: "fab fa-mastodon"
       url: "https://dice.camp/@strangequark"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github-alt"
+      url: "https://github.com/slithy"
+    - label: "ORCID"
+      icon: "fab fa-orcid"
+      url: "https://orcid.org/0000-0002-1523-2870"
 
 # Site Footer
 footer:
@@ -123,9 +121,6 @@ footer:
     - label: "DriveThruRPG"
       icon: "fas fa-fw fa-dice-d20"
       url: "https://preview.drivethrurpg.com/en/publisher/27329/Strange-Quark"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github-alt"
-      url: "https://github.com/slithy"
 
 # Reading Files
 include:
@@ -195,7 +190,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Paris # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
@@ -262,7 +257,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: # true
-      share: true
-      related: true
+      share: false
+      related: false
