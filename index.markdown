@@ -26,7 +26,7 @@ feature_row:
     btn_class: "btn--info"
   - image_path: /assets/images/RonanSkerryCover.png
     alt: "The Secret of Ronan Skerry for Castles & Crusades RPG"
-    excerpt: "A scenario for Castles & Crusades RPG:
+    excerpt: "A scenario for Castles & Crusades RPG:<br />
       *The town of Port Vogey is in distress. For several weeks, no ships have come into port, and noone knows
       why. Now the new moon has passed and the lighthouse keepers, the monks of a local Sea Goddess, have missed their
       monthly trip into Vogey for supplies...*"
@@ -35,10 +35,19 @@ feature_row:
     btn_class: "btn--info"
   - image_path: /assets/images/LastLegCover.png
     alt: "Last Leg short film"
-    excerpt: "Set in Britain in the 1980s. Fifteen-year-old Reyna struggles against the wishes of her abusive father to
-      pursue her passion in swimming. She starts training for an upcoming competition at her secondary school, aspiring
+    excerpt: "A short film set in Britain in the 1980s:<br />
+      Fifteen-year-old Reyna struggles against the wishes of her abusive father to
+      pursue her passion for swimming. She starts training for an upcoming competition at her secondary school, aspiring
       to achieve first place. But with a father who controls the world around her, her goal to win is tested."
     url: "/film/last-leg/"
+    btn_label: "More info"
+    btn_class: "btn--info"
+  - image_path: /assets/images/Crusader20Cover.png
+    alt: "If you go down to the woods today, C&C forest encounters in Crusader Journal 20"
+    excerpt: "A set encounter for Castles & Crusades RPG:<br />
+      *As the party are making their way through a forest or wood, they catch sight of a curious structure. It looks like
+      some kind of small dwelling with five chimneys sticking out of the top – or an oddly-constructed pipe-organ made of mud …*"
+    url: "/rpg/crusader-20/"
     btn_label: "More info"
     btn_class: "btn--info"
 ---
