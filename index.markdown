@@ -33,6 +33,14 @@ feature_row:
     url: "/rpg/secret-of-ronan-skerry/"
     btn_label: "More info"
     btn_class: "btn--info"
+  - image_path: /assets/images/LastLegCover.png
+    alt: "Last Leg short film"
+    excerpt: "Set in Britain in the 1980s. Fifteen-year-old Reyna struggles against the wishes of her abusive father to
+      pursue her passion in swimming. She starts training for an upcoming competition at her secondary school, aspiring
+      to achieve first place. But with a father who controls the world around her, her goal to win is tested."
+    url: "/film/last-leg/"
+    btn_label: "More info"
+    btn_class: "btn--info"
 ---
 
 {% include feature_row %}
