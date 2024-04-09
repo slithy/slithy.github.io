@@ -19,7 +19,7 @@ antimatter aliens, to a team of scientists finding themselves being systematical
 and SF legends Ian Watson (whose credits include the screenplay for Spielberg's *A.I.*) and Stephen Baxter (winner of
 the Philip K Dick and John W Campbell Memorial Award).
 
-Michael Davis was paired with author [Pete Kalu](http://www.peterkalu.com/) for the story, *Side-channels to Andromeda*.
+Michael Davis was paired with author [Pete Kalu](http://www.peterkalu.com/){:target="_blank"}{:rel="noopener noreferrer"} for the story, *Side-channels to Andromeda*.
 Afterword by Michael Davis.
 
-[Order from Comma Press](https://commapress.co.uk/books/collision){: .btn .btn--info}
+[Order from Comma Press](https://commapress.co.uk/books/collision){: .btn .btn--info}{:target="_blank"}{:rel="noopener noreferrer"}
