@@ -29,7 +29,7 @@ feature_row:
     excerpt: "A scenario for Castles & Crusades RPG:<br />
       *The town of Port Vogey is in distress. For several weeks, no ships have come into port, and noone knows
       why. Now the new moon has passed and the lighthouse keepers, the monks of a local Sea Goddess, have missed their
-      monthly trip into Vogey for supplies...*"
+      monthly trip into Vogey for supplies ...*"
     url: "/rpg/secret-of-ronan-skerry/"
     btn_label: "More info"
     btn_class: "btn--info"
@@ -44,9 +44,9 @@ feature_row:
     btn_class: "btn--info"
   - image_path: /assets/images/Crusader20Cover.png
     alt: "If you go down to the woods today, C&C forest encounters in Crusader Journal 20"
-    excerpt: "A set encounter for Castles & Crusades RPG:<br />
+    excerpt: "A forest encounter for Castles & Crusades RPG:<br />
       *As the party are making their way through a forest or wood, they catch sight of a curious structure. It looks like
-      some kind of small dwelling with five chimneys sticking out of the top – or an oddly-constructed pipe-organ made of mud …*"
+      some kind of small dwelling with five chimneys sticking out of the top—or an oddly-constructed pipe-organ made of mud …*"
     url: "/rpg/crusader-20/"
     btn_label: "More info"
     btn_class: "btn--info"

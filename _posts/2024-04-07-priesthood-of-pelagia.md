@@ -29,4 +29,4 @@ inspirational sources.
 
 This product is compatible with the Dungeon Crawl Classics Role Playing Game.
 
-[Download from DriveThruRPG](https://www.drivethrurpg.com/product/476883/The-Priesthood-of-Pelagia){: .btn .btn--info}
+[Download from DriveThruRPG](https://www.drivethrurpg.com/product/476883/The-Priesthood-of-Pelagia?affiliate_id=208228){: .btn .btn--info}
