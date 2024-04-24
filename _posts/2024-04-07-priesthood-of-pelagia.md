@@ -29,4 +29,5 @@ inspirational sources.
 
 This product is compatible with the Dungeon Crawl Classics Role Playing Game.
 
+[Download from Goodman Games](https://goodman-games.com/store/product/the-priesthood-of-pelagia-pdf/){: .btn .btn--info}{:target="_blank"}{:rel="noopener noreferrer"}
 [Download from DriveThruRPG](https://www.drivethrurpg.com/product/476883/The-Priesthood-of-Pelagia?affiliate_id=208228){: .btn .btn--info}{:target="_blank"}{:rel="noopener noreferrer"}
