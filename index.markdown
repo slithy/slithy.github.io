@@ -63,6 +63,7 @@ feature_row:
 
 {% include video id="946075516" provider="vimeo" %}
 
-[More about Return of the Ripper](https://www.kickstarter.com/projects/michaeldavisphd/return-of-the-ripper-a-l1-horror-adventure-for-dcc-rpg?ref=7vlts0){: .btn .btn--info}{:target="_blank"}{:rel="noopener noreferrer"}
+[Read the story on Kickstarter](https://www.kickstarter.com/projects/michaeldavisphd/return-of-the-ripper-a-l1-horror-adventure-for-dcc-rpg?ref=7vlts0){: .btn .btn--info}{:target="_blank"}{:rel="noopener noreferrer"}
+<p><b>Return of the Ripper</b> is launching on Friday 31 May 2024</p>
 
 {% include feature_row %}
