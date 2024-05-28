@@ -61,4 +61,8 @@ feature_row:
     btn_class: "btn--info"
 ---
 
+{% include video id="946075516" provider="vimeo" %}
+
+[More about Return of the Ripper](https://www.kickstarter.com/projects/michaeldavisphd/return-of-the-ripper-a-l1-horror-adventure-for-dcc-rpg?ref=7vlts0){: .btn .btn--info}{:target="_blank"}{:rel="noopener noreferrer"}
+
 {% include feature_row %}
