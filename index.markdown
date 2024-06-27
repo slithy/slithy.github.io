@@ -64,6 +64,6 @@ feature_row:
 {% include video id="946075516" provider="vimeo" %}
 
 [Read the story on Kickstarter](https://www.kickstarter.com/projects/michaeldavisphd/return-of-the-ripper-a-l1-horror-adventure-for-dcc-rpg?ref=7vlts0){: .btn .btn--info}{:target="_blank"}{:rel="noopener noreferrer"}
-<p><b>Return of the Ripper</b> is launching on Friday 31 May 2024</p>
+<p><b>Return of the Ripper</b> successfully funded on 27 June 2024. But it's not too late to become a backer! Late Pledges will remain open for a few months, until the artists complete their work.</p>
 
 {% include feature_row %}
