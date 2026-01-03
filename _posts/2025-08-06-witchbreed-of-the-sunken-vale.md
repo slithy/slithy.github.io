@@ -14,8 +14,9 @@ be opened on the eve of the solstice.*
 This is a hexflower-crawl adventure with a celtic/folk horror feel. Suitable for first or second level characters as a 
 one-shot or to kick off a new campaign. It is short enough to play in a single session.
 
-Witchbreed of the Sunken Vale was written as part of the Appendix N Game Jam ([Appx. N Jam](https://itch.io/jam/appx-n-jam),
-a homage to the retro pulp fantasy literature of Appendix N. Authors were assigned a made-up pulp fantasy title and 
+Witchbreed of the Sunken Vale was written as part of the Appendix N Game Jam
+([Appx. N Jam](https://itch.io/jam/appx-n-jam){:target="_blank"}{:rel="noopener noreferrer"}),
+a homage to the retro pulp fantasy literature of Appendix N. Authors were assigned a (made-up) pulp fantasy title and 
 riffed off that to write the adventure.
 
 The download includes a screen-formatted PDF (4 pages), a print-formatted PDF (print as a single two-sided page and 

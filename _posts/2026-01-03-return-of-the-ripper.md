@@ -32,8 +32,6 @@ expanded by the Judge.
 
 This product is compatible with the Dungeon Crawl Classics Role Playing Game.
 
-[Download from DriveThruRPG](https://www.drivethrurpg.com/product/497675/Dungeon-Crawl-Classics-Horror-Return-of-the-Ripper?src=strangequark.eu&affiliate_id=208228){: .btn .btn--info}{:target="_blank"}{:rel="noopener noreferrer"}
-
-[Poster of cover art by Jeff Dee](https://www.drivethrurpg.com/product/486851/cover-art-for-return-of-the-ripper-by-jeff-dee-desktop-wallpaper-and-printed-poster?src=strangequark.eu&affiliate_id=208228){: .btn .btn--info}{:target="_blank"}{:rel="noopener noreferrer"}
-
+[Download from DriveThruRPG](https://www.drivethrurpg.com/product/497675/Dungeon-Crawl-Classics-Horror-Return-of-the-Ripper?src=strangequark.eu&affiliate_id=208228){: .btn .btn--info}{:target="_blank"}{:rel="noopener noreferrer"}<br />
+[Poster of cover art by Jeff Dee](https://www.drivethrurpg.com/product/486851/cover-art-for-return-of-the-ripper-by-jeff-dee-desktop-wallpaper-and-printed-poster?src=strangequark.eu&affiliate_id=208228){: .btn .btn--info}{:target="_blank"}{:rel="noopener noreferrer"}<br />
 [Poster maps of the District of Spittle-Fields](https://www.drivethrurpg.com/product/513813/poster-maps-of-the-district-of-spittle-fields-return-of-the-ripper?src=strangequark.eu&affiliate_id=208228){: .btn .btn--info}{:target="_blank"}{:rel="noopener noreferrer"}

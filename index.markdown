@@ -11,7 +11,7 @@ feature_row:
     excerpt: "Death stalks the streets of Spittle-Fields — an elusive killer committing horrible crimes. A century past,
       dread gripped the teeming slum of the Tenements. Women were savagely murdered by a shadowy figure who vanished 
       into the fog. Then the murders stopped, but the killer was never found. Now a fresh murder awakens fears that 
-      the Ripper has returned."
+      the Ripper has returned …"
     url: "/rpg/return-of-the-ripper/"
     btn_label: "More info"
     btn_class: "btn--info"
@@ -21,7 +21,7 @@ feature_row:
     #title: "Witchbreed of the Sunken Vale"
     excerpt: "The Sunken Vale was formerly known as the Mournes of Dónairt, referring to the burial place of the 
       mythic hero who served Nuada of the Silver Hand. It is rumoured he was buried with the magical Sword of Light, 
-      but his tomb can only be opened on the eve of the solstice."
+      but his tomb can only be opened on the eve of the solstice …"
     url: "/rpg/witchbreed-of-the-sunken-vale/"
     btn_label: "More info"
     btn_class: "btn--info"
@@ -50,7 +50,7 @@ feature_row:
     excerpt: "<p>A scenario for Castles & Crusades RPG</p>
       *The town of Port Vogey is in distress. For several weeks, no ships have come into port, and noone knows
       why. Now the new moon has passed and the lighthouse keepers, the monks of a local Sea Goddess, have missed their
-      monthly trip into Vogey for supplies ...*"
+      monthly trip into Vogey for supplies …*"
     url: "/rpg/secret-of-ronan-skerry/"
     btn_label: "More info"
     btn_class: "btn--info"
@@ -84,10 +84,9 @@ feature_row:
 
 {% include video id="946075516" provider="vimeo" %}
 
-[Read the making of story on Kickstarter](https://www.kickstarter.com/projects/michaeldavisphd/return-of-the-ripper-a-l1-horror-adventure-for-dcc-rpg/posts){: .btn .btn--info}{:target="_blank"}{:rel="noopener noreferrer"}
-<p style="color:#8d230f"><em>The Autumn of Terror is back!</em></p>
-<p style="color:#8d230f">Commemorating the twentieth anniversary of
-<a href="https://web.archive.org/web/20060426153333/http://www.goodman-games.com/5023preview.php" target="_blank">DCC 24: Legend of the Ripper</a>,
+[Read the Making of Return of the Ripper](https://www.kickstarter.com/projects/michaeldavisphd/return-of-the-ripper-a-l1-horror-adventure-for-dcc-rpg/posts){: .btn .btn--info}{:target="_blank"}{:rel="noopener noreferrer"}
+<p style="color:#8d230f"><strong>The Autumn of Terror is back!</strong> Commemorating the twentieth anniversary of
+<a style="color:#8d230f" href="https://web.archive.org/web/20060426153333/http://www.goodman-games.com/5023preview.php" target="_blank">DCC 24: Legend of the Ripper</a>,
 this new adventure will chill your players' very souls.</p>
 
 {% include feature_row %}
