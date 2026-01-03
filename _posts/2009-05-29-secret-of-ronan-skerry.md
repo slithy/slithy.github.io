@@ -15,4 +15,4 @@ This 20-page full-sized module was written for the Castles & Crusades role-playi
 be run during the course of a session or two. The module includes four maps for the encounter areas and the surrounding
 wilderness and four new Creatures for Castles & Crusades.
 
-[Download from DriveThruRPG](https://preview.drivethrurpg.com/en/product/78578/The-Secret-of-Ronan-Skerry-CC?affiliate_id=208228){: .btn .btn--info}{:target="_blank"}{:rel="noopener noreferrer"}
+[Download from DriveThruRPG](https://preview.drivethrurpg.com/en/product/78578/The-Secret-of-Ronan-Skerry-CC?src=strangequark.eu&affiliate_id=208228){: .btn .btn--info}{:target="_blank"}{:rel="noopener noreferrer"}
