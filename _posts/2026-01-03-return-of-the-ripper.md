@@ -21,9 +21,10 @@ an insalubrious city district that has bloomed beyond Punjar's Plague Gate.
 The four quarters of Spittle-Fields are presented as an urban sandbox populated with nearly 200 detailed locations, 
 populated by an array of grotesque NPCs. The adventure contains fourteen maps, illustrating the four quarters of 
 Spittle-Fields and locations including Spittle-Fields Union Workhouse, the Cam Inn, Mitre Tavern, the haunted Ten 
-Bells Public House, the Guildhall of Master Builders and the mysterious the White Chappel. The adventure also goes
-beneath the city streets into the crypts and tunnels beneath the churchyard, and the rivers, channels and sewers of 
-the Undercity — and an expedition into a lost realm in a hidden pocket dimension.
+Bells Public House, the Guildhall of Master Builders and the mysterious the White Chappel.
+
+The adventure continues beneath the city streets in the crypts and tunnels beneath the churchyard, the rivers, 
+channels and sewers of the Undercity — and an expedition into a lost realm in a hidden pocket dimension.
 
 Return of the Ripper is intended to be played as a mini-campaign, taking characters from 1st to 3rd level — and beyond.
 Spittle-Fields can also be used as an urban decay campaign setting and contains numerous adventure hooks that could be 
@@ -32,3 +33,7 @@ expanded by the Judge.
 This product is compatible with the Dungeon Crawl Classics Role Playing Game.
 
 [Download from DriveThruRPG](https://www.drivethrurpg.com/product/497675/Dungeon-Crawl-Classics-Horror-Return-of-the-Ripper?src=strangequark.eu&affiliate_id=208228){: .btn .btn--info}{:target="_blank"}{:rel="noopener noreferrer"}
+
+[Poster of cover art by Jeff Dee](https://www.drivethrurpg.com/product/486851/cover-art-for-return-of-the-ripper-by-jeff-dee-desktop-wallpaper-and-printed-poster?src=strangequark.eu&affiliate_id=208228){: .btn .btn--info}{:target="_blank"}{:rel="noopener noreferrer"}
+
+[Poster maps of the District of Spittle-Fields](https://www.drivethrurpg.com/product/513813/poster-maps-of-the-district-of-spittle-fields-return-of-the-ripper?src=strangequark.eu&affiliate_id=208228){: .btn .btn--info}{:target="_blank"}{:rel="noopener noreferrer"}

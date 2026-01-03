@@ -15,6 +15,16 @@ feature_row:
     url: "/rpg/return-of-the-ripper/"
     btn_label: "More info"
     btn_class: "btn--info"
+  - image_path: /assets/images/WitchbreedOfTheSunkenValeCover.png
+    #image_caption: "Witchbreed of the Sunken Vale"
+    alt: "Witchbreed of the Sunken Vale"
+    #title: "Witchbreed of the Sunken Vale"
+    excerpt: "The Sunken Vale was formerly known as the Mournes of Dónairt, referring to the burial place of the 
+      mythic hero who served Nuada of the Silver Hand. It is rumoured he was buried with the magical Sword of Light, 
+      but his tomb can only be opened on the eve of the solstice."
+    url: "/rpg/witchbreed-of-the-sunken-vale/"
+    btn_label: "More info"
+    btn_class: "btn--info"
   - image_path: /assets/images/PriesthoodOfPelagiaCover.png
     #image_caption: "The Priesthood of Pelagia"
     alt: "The Priesthood of Pelagia for Dungeon Crawl Classics RPG"
@@ -74,7 +84,10 @@ feature_row:
 
 {% include video id="946075516" provider="vimeo" %}
 
-[Read the story on Kickstarter](https://www.kickstarter.com/projects/michaeldavisphd/return-of-the-ripper-a-l1-horror-adventure-for-dcc-rpg?ref=7vlts0){: .btn .btn--info}{:target="_blank"}{:rel="noopener noreferrer"}
-<p><b>Return of the Ripper</b> successfully funded on 27 June 2024. But it's not too late to become a backer! Late Pledges will remain open for a few months, until the artists complete their work.</p>
+[Read the making of story on Kickstarter](https://www.kickstarter.com/projects/michaeldavisphd/return-of-the-ripper-a-l1-horror-adventure-for-dcc-rpg/posts){: .btn .btn--info}{:target="_blank"}{:rel="noopener noreferrer"}
+<p style="color:#8d230f"><em>The Autumn of Terror is back!</em></p>
+<p style="color:#8d230f">Commemorating the twentieth anniversary of
+<a href="https://web.archive.org/web/20060426153333/http://www.goodman-games.com/5023preview.php" target="_blank">DCC 24: Legend of the Ripper</a>,
+this new adventure will chill your players' very souls.</p>
 
 {% include feature_row %}
