@@ -103,7 +103,7 @@ author:
   email:
   links:
     - label: "Mailing List"
-      icon: "fa fa-circle-o"
+      icon: "far fa-circle"
       url: "https://listmonk.strangequark.eu/subscription/form"
     - label: "Mastodon"
       icon: "fab fa-mastodon"
@@ -125,7 +125,7 @@ footer:
       icon: "fas fa-fw fa-dice-d20"
       url: "https://preview.drivethrurpg.com/en/publisher/27329/Strange-Quark?src=strangequark.eu&affiliate_id=208228"
     - label: "Mailing List"
-      icon: "fa fa-circle-o"
+      icon: "far fa-circle"
       url: "https://listmonk.strangequark.eu/subscription/form"
 
 # Reading Files
