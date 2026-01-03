@@ -4,6 +4,17 @@
 
 layout: splash
 feature_row:
+  - image_path: /assets/images/ReturnOfTheRipperCover.png
+    #image_caption: "Dungeon Crawl Classics Horror: Return of the Ripper"
+    alt: "Dungeon Crawl Classics Horror: Return of the Ripper"
+    #title: "Return of the Ripper"
+    excerpt: "Death stalks the streets of Spittle-Fields — an elusive killer committing horrible crimes. A century past,
+      dread gripped the teeming slum of the Tenements. Women were savagely murdered by a shadowy figure who vanished 
+      into the fog. Then the murders stopped, but the killer was never found. Now a fresh murder awakens fears that 
+      the Ripper has returned."
+    url: "/rpg/return-of-the-ripper/"
+    btn_label: "More info"
+    btn_class: "btn--info"
   - image_path: /assets/images/PriesthoodOfPelagiaCover.png
     #image_caption: "The Priesthood of Pelagia"
     alt: "The Priesthood of Pelagia for Dungeon Crawl Classics RPG"
