@@ -84,7 +84,8 @@ feature_row:
 
 {% include video id="946075516" provider="vimeo" %}
 
-[Read the Making of Return of the Ripper](https://www.kickstarter.com/projects/michaeldavisphd/return-of-the-ripper-a-l1-horror-adventure-for-dcc-rpg/posts){: .btn .btn--info}{:target="_blank"}{:rel="noopener noreferrer"}
+[Read the Making of Return of the Ripper](https://www.kickstarter.com/projects/michaeldavisphd/return-of-the-ripper-a-l1-horror-adventure-for-dcc-rpg/posts){: .btn .btn--info}{:target="_blank"}{:rel="noopener noreferrer"} 
+[Subscribe to be notified of new projects](https://listmonk.strangequark.eu/subscription/form)
 <p style="color:#8d230f"><strong>The Autumn of Terror is back!</strong> Commemorating the twentieth anniversary of
 <a style="color:#8d230f" href="https://web.archive.org/web/20060426153333/http://www.goodman-games.com/5023preview.php" target="_blank">DCC 24: Legend of the Ripper</a>,
 this new adventure will chill your players' very souls.</p>

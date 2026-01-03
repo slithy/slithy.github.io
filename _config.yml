@@ -100,27 +100,33 @@ author:
   bio: "Computer Scientist, Software Engineer, Game Master."
 
   location: "Geneva, Switzerland"
-  email            :
+  email:
   links:
+    - label "Mailing List"
+      icon: "fa fa-circle-o"
+      url: "https://listmonk.strangequark.eu/subscription/form"
     - label: "Mastodon"
       icon: "fab fa-mastodon"
-      url: "https://dice.camp/@strangequark"
+      url: "https://dice.camp/@strangequark"{:target="_blank"}{:rel="noopener noreferrer"}
     - label: "GitHub"
       icon: "fab fa-fw fa-github-alt"
-      url: "https://github.com/slithy"
+      url: "https://github.com/slithy"{:target="_blank"}{:rel="noopener noreferrer"}
     - label: "ORCID"
       icon: "fab fa-orcid"
-      url: "https://orcid.org/0000-0002-1523-2870"
+      url: "https://orcid.org/0000-0002-1523-2870"{:target="_blank"}{:rel="noopener noreferrer"}
 
 # Site Footer
 footer:
   links:
     - label: "Mastodon"
       icon: "fab fa-mastodon"
-      url: "https://dice.camp/@strangequark"
+      url: "https://dice.camp/@strangequark"{:target="_blank"}{:rel="noopener noreferrer"}
     - label: "DriveThruRPG"
       icon: "fas fa-fw fa-dice-d20"
-      url: "https://preview.drivethrurpg.com/en/publisher/27329/Strange-Quark?affiliate_id=208228"
+      url: "https://preview.drivethrurpg.com/en/publisher/27329/Strange-Quark?src=strangequark.eu&affiliate_id=208228"{:target="_blank"}{:rel="noopener noreferrer"}
+    - label "Mailing List"
+      icon: "fa fa-circle-o"
+      url: "https://listmonk.strangequark.eu/subscription/form"
 
 # Reading Files
 include:
