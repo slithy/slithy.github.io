@@ -102,7 +102,7 @@ author:
   location: "Geneva, Switzerland"
   email:
   links:
-    - label "Mailing List"
+    - label: "Mailing List"
       icon: "fa fa-circle-o"
       url: "https://listmonk.strangequark.eu/subscription/form"
     - label: "Mastodon"
@@ -124,7 +124,7 @@ footer:
     - label: "DriveThruRPG"
       icon: "fas fa-fw fa-dice-d20"
       url: "https://preview.drivethrurpg.com/en/publisher/27329/Strange-Quark?src=strangequark.eu&affiliate_id=208228"{:target="_blank"}{:rel="noopener noreferrer"}
-    - label "Mailing List"
+    - label: "Mailing List"
       icon: "fa fa-circle-o"
       url: "https://listmonk.strangequark.eu/subscription/form"
 
