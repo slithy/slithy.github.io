@@ -82,7 +82,7 @@ feature_row:
     btn_class: "btn--info"
 ---
 
-<div style="position: relative; padding-top: 56.25%;"><iframe title="Law and Chaos" width="100%" height="100%" src="https://tube.fediverse.games/videos/embed/jjdiKByToXUsVnQf8ycVze?warningTitle=0" style="border: 0px; position: absolute; inset: 0px;" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe></div>
+<div style="position: relative; padding-top: 56.25%;"><iframe title="Law and Chaos" width="100%" height="100%" src="https://tube.fediverse.games/videos/embed/jjdiKByToXUsVnQf8ycVze?title=0&amp;warningTitle=0" style="border: 0px; position: absolute; inset: 0px;" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe></div>
 
 <p style="color:#8d230f;margin-top:12px;"><strong>The Autumn of Terror is back!</strong> Commemorating the twentieth anniversary of
 <a style="color:#8d230f" href="https://web.archive.org/web/20060426153333/http://www.goodman-games.com/5023preview.php" target="_blank">DCC 24: Legend of the Ripper</a>,
