@@ -82,7 +82,7 @@ feature_row:
     btn_class: "btn--info"
 ---
 
-{% include video id="946075516" provider="vimeo" %}
+<div style="position: relative; padding-top: 56.25%;"><iframe title="Law and Chaos" width="100%" height="100%" src="https://tube.fediverse.games/videos/embed/jjdiKByToXUsVnQf8ycVze?warningTitle=0" style="border: 0px; position: absolute; inset: 0px;" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe></div>
 
 [Read the Making of Return of the Ripper](https://www.kickstarter.com/projects/michaeldavisphd/return-of-the-ripper-a-l1-horror-adventure-for-dcc-rpg/posts){: .btn .btn--info}{:target="_blank"}{:rel="noopener noreferrer"} 
 [Subscribe to be notified of new projects](https://listmonk.strangequark.eu/subscription/form){: .btn .btn--info}
