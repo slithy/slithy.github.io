@@ -19,16 +19,20 @@ Return of the Ripper is an urban horror investigation adventure for Dungeon Craw
 an insalubrious city district that has bloomed beyond Punjar's Plague Gate.
 
 The four quarters of Spittle-Fields are presented as an urban sandbox populated with nearly 200 detailed locations, 
-populated by an array of grotesque NPCs. The adventure contains fourteen maps, illustrating the four quarters of 
-Spittle-Fields and locations including Spittle-Fields Union Workhouse, the Cam Inn, Mitre Tavern, the haunted Ten 
-Bells Public House, the Guildhall of Master Builders and the mysterious the White Chappel.
+populated by an array of grotesque NPCs. The adventure contains fourteen maps illustrating the four quarters of 
+Spittle-Fields: Spittle-Fields Union Workhouse, the Cam Inn, Mitre Tavern, the haunted Ten Bells Public House, the 
+Guildhall of Master Builders and the mysterious the White Chappel.
 
-The adventure continues beneath the city streets in the crypts and tunnels beneath the churchyard, the rivers, 
+The adventure continues beneath the city streets in the crypts and tunnels beneath the churchyard and along the rivers,
 channels and sewers of the Undercity — and an expedition into a lost realm in a hidden pocket dimension.
 
 Return of the Ripper is intended to be played as a mini-campaign, taking characters from 1st to 3rd level — and beyond.
-Spittle-Fields can also be used as an urban decay campaign setting and contains numerous adventure hooks that could be 
-expanded by the Judge.
+Spittle-Fields can also be used as an urban decay campaign setting and contains many adventure hooks for the Judge to 
+develop further.
+
+Cover art is by D&D luminary **Jeff Dee** with interior art by **Stefan Poag**, **Chris Holmes** and Italian horror 
+comics artist **Arjuna Susini**. Cartography is by **Jason Edwards**, with Spittle-Fields district maps in the style 
+of 17th-century woodcuts by **Wouter Goedkoop** and **Rachel Ward**.
 
 This product is compatible with the Dungeon Crawl Classics Role Playing Game.
 
