@@ -209,6 +209,7 @@ permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: Europe/Paris # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# TODO: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.
 
 
 # Plugins (previously gems:)
