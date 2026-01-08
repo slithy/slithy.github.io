@@ -89,6 +89,6 @@ feature_row:
 <em>Return of the Ripper</em> is a new adventure to chill your players' very souls.</p>
 
 [Read how Return of the Ripper was made](https://www.kickstarter.com/projects/michaeldavisphd/return-of-the-ripper-a-l1-horror-adventure-for-dcc-rpg/posts){: .btn .btn--info}{:target="_blank"}{:rel="noopener noreferrer"} 
-[Subscribe to be notified of new projects](https://listmonk.strangequark.eu/subscription/form){: .btn .btn--info}
+[Sign up to be notified of new projects](https://listmonk.strangequark.eu/subscription/form){: .btn .btn--info}
 
 {% include feature_row %}

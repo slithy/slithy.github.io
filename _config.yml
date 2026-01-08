@@ -99,9 +99,6 @@ author:
   location: "Geneva, Switzerland"
   email:
   links:
-    - label: "E-mail List"
-      icon: "far fa-circle"
-      url: "https://listmonk.strangequark.eu/subscription/form"
     - label: "Mastodon"
       icon: "fab fa-mastodon"
       url: "https://dice.camp/@strangequark"
@@ -209,7 +206,9 @@ permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: Europe/Paris # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-# TODO: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.
+# TODO: Fix pagination if I need to add more posts
+# Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.
+# See https://stackoverflow.com/questions/29159078/jekyll-paginate/29177455#29177455
 
 
 # Plugins (previously gems:)
