@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Witchbreed of the Sunken Vale"
-tag: D&D, OSR
+tags: [ D&D, OSR ]
 category: RPG
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Collision: Stories from the Science of CERN"
-tag: Science/Fiction
+tags: [ Science, Narrative fiction ]
 category: Book
 ---
 
