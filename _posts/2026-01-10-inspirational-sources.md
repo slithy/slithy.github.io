@@ -1,13 +1,13 @@
 ---
 layout: single
-title:  "Design Diary: Return of the Ripper"
+title:  "Design Diary 1. Return of the Ripper"
 tags: [ Design Diary, Dungeon Crawl Classics ]
 category: RPG
 ---
 
 ![Mitre Square, from Return of the Ripper for Dungeon Crawl Classics RPG](/assets/images/MitreSquare.png)
 
-<span style="font-size:.75em;">Part 1 of 8</span><br />
+<span style="font-size:.75em;">Part 1 of 8. Read part <a href="/rpg/mythic-london/">2</a>.</span>
 
 My interest in the mythology of Jack the Ripper began when I was an undergraduate in London in the 1990s. The student 
 haunt of Brick Lane was popular for its legendary curry houses. A few steps away, on the corner of Fournier Street and 
@@ -53,4 +53,4 @@ its populace and the sinister cult behind the new Autumn of Terror. The result i
 and expanded.
 
 <span style="font-size:.75em;">This post is an excerpt from *Return of the Ripper* Appendix N: Inspirational Sources.</span><br />
-<span style="font-size:.75em;">Part 2 coming soon.</span>
+<span style="font-size:.75em;">Part 1 of 8. Read part <a href="/rpg/mythic-london/">2</a>.</span>
