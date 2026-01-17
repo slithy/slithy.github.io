@@ -52,5 +52,7 @@ its populace and the sinister cult behind the new Autumn of Terror. The result i
 [Return of the Ripper](/rpg/return-of-the-ripper/), a 20th-anniversary homage to *Legend of the Ripper*, remastered 
 and expanded.
 
-<span style="font-size:.75em;">This post is an excerpt from *Return of the Ripper* Appendix N: Inspirational Sources.</span><br />
-<span style="font-size:.75em;">Part 1 of 8. Read part <a href="/rpg/mythic-london/">2</a>.</span>
+<div style="font-size:.75em;">
+<p>This post is an excerpt from <em>Return of the Ripper</em> Appendix N: Inspirational Sources.</p>
+<p>Part 1 of 8. Read part <a href="/rpg/mythic-london/">2</a>.</p>
+</div>
