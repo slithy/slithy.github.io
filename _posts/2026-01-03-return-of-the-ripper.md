@@ -4,6 +4,7 @@ title:  "Return of the Ripper"
 tag: Dungeon Crawl Classics
 category: RPG
 isbn: 2370022621520
+format: 143 pages, PDF and softback
 ---
 
 ![Dungeon Crawl Classics Horror: Return of the Ripper Cover](/assets/images/ReturnOfTheRipperCover.png)

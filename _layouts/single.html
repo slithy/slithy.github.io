@@ -53,10 +53,15 @@ layout: default
       </section>
 
       <footer class="page__meta">
+        {% if page.format %}
+        <p class="page__taxonomy" style="margin-bottom:8px;"><strong>
+          <i class="fas fa-book-open"></i>
+          Format:</strong>{{ page.format }}</p>
+        {% endif %}
         {% if page.isbn %}
-        <p class="page__taxonomy"><strong>
+        <p class="page__taxonomy" style="margin-bottom:8px;"><strong>
           <i class="fas fa-barcode"></i>
-          ISBN:</strong><span class="page__taxonomy-item p-category">{{ page.isbn }}</span></p>
+          ISBN:</strong>{{ page.isbn }}</p>
         {% endif %}
         {% if site.data.ui-text[site.locale].meta_label %}
           <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>

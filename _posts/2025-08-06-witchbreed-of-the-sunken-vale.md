@@ -3,6 +3,7 @@ layout: single
 title:  "Witchbreed of the Sunken Vale"
 tags: [ D&D, OSR ]
 category: RPG
+format: 4 pages, PDF
 ---
 
 ![Witchbreed of the Sunken Vale Cover](/assets/images/WitchbreedOfTheSunkenValeCover.png)

@@ -3,6 +3,7 @@ layout: single
 title:  "The Secret of Ronan Skerry"
 tag: Castles & Crusades
 category: RPG
+format: 20 pages, softback
 ---
 ![The Secret of Ronan Skerry Second Printing Cover](/assets/images/RonanSkerryCover.png)
 

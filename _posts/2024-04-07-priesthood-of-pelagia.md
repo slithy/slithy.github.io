@@ -3,6 +3,7 @@ layout: single
 title:  "The Priesthood of Pelagia"
 tag: Dungeon Crawl Classics
 category: RPG
+format: 17 pages, PDF
 ---
 
 ![The Priesthood of Pelagia for DCC RPG Cover](/assets/images/PriesthoodOfPelagiaCover.png)

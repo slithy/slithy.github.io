@@ -4,6 +4,7 @@ title:  "Collision: Stories from the Science of CERN"
 tags: [ Science, Narrative fiction ]
 category: Book
 isbn: 9781912697687
+format: 336 pages, paperback
 ---
 
 ![Collision: Stories from the Science of CERN](/assets/images/CollisionCover.png)
