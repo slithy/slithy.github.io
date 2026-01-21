@@ -115,8 +115,8 @@ focussing on anecdotes and minutae. This book provided inspiration for the atmos
 including maps, plagues, crime and punishment and London's rivers.
 
 <div style="font-size:.75em;">
-<p>This post is an excerpt from <em>Return of the Ripper</em> Appendix N: Inspirational Sources.</p>
-<p>Part 2 of 8. Part 3 coming soon.</p>
+<p>This post is an excerpt from <em>Return of the Ripper</em> Appendix N: Inspirational Sources.<br />
+Part 2 of 8. Part 3 coming soon.</p>
 </div>
 
 ## Notes

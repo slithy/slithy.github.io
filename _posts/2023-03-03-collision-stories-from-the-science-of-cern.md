@@ -3,6 +3,7 @@ layout: single
 title:  "Collision: Stories from the Science of CERN"
 tags: [ Science, Narrative fiction ]
 category: Book
+isbn: 9781912697687
 ---
 
 ![Collision: Stories from the Science of CERN](/assets/images/CollisionCover.png)
