@@ -32,12 +32,34 @@ Return of the Ripper is intended to be played as a mini-campaign, taking charact
 Spittle-Fields can also be used as an urban decay campaign setting and contains many adventure hooks for the Judge to 
 develop further.
 
-Cover art is by D&D luminary **Jeff Dee** with interior art by **Stefan Poag**, **Chris Holmes** and Italian horror 
-comics artist **Arjuna Susini**. Cartography is by **Jason Edwards**, with Spittle-Fields district maps in the style 
-of 17th-century woodcuts by **Wouter Goedkoop** and **Rachel Ward**.
-
 This product is compatible with the Dungeon Crawl Classics Role Playing Game.
 
-[Buy Return of the Ripper](https://www.drivethrurpg.com/product/497675/Dungeon-Crawl-Classics-Horror-Return-of-the-Ripper?src=strangequark.eu&affiliate_id=208228){: .btn .btn--info}{:target="_blank"}{:rel="noopener noreferrer"}<br />
-[Poster of cover art by Jeff Dee](https://www.drivethrurpg.com/product/486851/cover-art-for-return-of-the-ripper-by-jeff-dee-desktop-wallpaper-and-printed-poster?src=strangequark.eu&affiliate_id=208228){: .btn .btn--info}{:target="_blank"}{:rel="noopener noreferrer"}<br />
+## Artwork
+
+Cover art is by D&D luminary
+[Jeff Dee](https://www.patreon.com/artofjeffdee){:target="_blank"}{:rel="noopener noreferrer"}
+with interior art by
+[Stefan Poag](https://stefanpoag.com/){:target="_blank"}{:rel="noopener noreferrer"},
+[Chris Holmes](https://web.archive.org/web/20250719212027/http://www.holmeswest.com/){:target="_blank"}{:rel="noopener noreferrer"}
+and Italian horror comics artist 
+[Arjuna Susini](https://www.artstation.com/arjunasusini){:target="_blank"}{:rel="noopener noreferrer"}.
+
+Cartography is by 
+[Jason Edwards](https://jasonedwards65.myportfolio.com/maps){:target="_blank"}{:rel="noopener noreferrer"},
+with Spittle-Fields district maps in the style of 17th-century woodcuts by 
+[Wouter Goedkoop](https://thevoyagersworkshop.com/collections/fantasy-maps){:target="_blank"}{:rel="noopener noreferrer"}
+and 
+[Rachel Ward](https://www.cartographybird.com/gallery){:target="_blank"}{:rel="noopener noreferrer"}.
+
+## Reviews
+
+*Want "From Hell" in DCC RPG that becomes the Dream Quest of Unknown Kadath?*
+<div style="text-align:right">— Read the full review on 
+<a href="https://throatpunchgames.com/2026/01/19/ring-side-report-rpg-review-of-dungeon-crawl-classics-horror-return-of-the-ripper/"
+   target="_blank" rel="noopener noreferrer">Throat Punch Games</a></div>
+
+## Purchase
+
+[Return of the Ripper Print and PDF](https://www.drivethrurpg.com/product/497675/Dungeon-Crawl-Classics-Horror-Return-of-the-Ripper?src=strangequark.eu&affiliate_id=208228){: .btn .btn--info}{:target="_blank"}{:rel="noopener noreferrer"}
 [Poster maps of the District of Spittle-Fields](https://www.drivethrurpg.com/product/513813/poster-maps-of-the-district-of-spittle-fields-return-of-the-ripper?src=strangequark.eu&affiliate_id=208228){: .btn .btn--info}{:target="_blank"}{:rel="noopener noreferrer"}
+[Poster of cover art by Jeff Dee](https://www.drivethrurpg.com/product/486851/cover-art-for-return-of-the-ripper-by-jeff-dee-desktop-wallpaper-and-printed-poster?src=strangequark.eu&affiliate_id=208228){: .btn .btn--info}{:target="_blank"}{:rel="noopener noreferrer"}
