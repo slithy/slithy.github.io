@@ -7,7 +7,12 @@ category: RPG
 
 ![Mitre Square, from Return of the Ripper for Dungeon Crawl Classics RPG](/assets/images/MitreSquare.png)
 
-<span style="font-size:.75em;">Part 1 of 8. Read part <a href="/rpg/mythic-london/">2</a>.</span>
+<span style="font-size:.75em;">Part 1 of 8. Read part 
+<a href="/rpg/mythic-london/">2</a>
+<a href="/rpg/spittle-fields/">3</a>
+<a href="/rpg/the-white-chappel/">4</a>
+<a href="/rpg/the-undercity/">5</a>
+6 7 8.</span>
 
 My interest in the mythology of Jack the Ripper began when I was an undergraduate in London in the 1990s. The student 
 haunt of Brick Lane was popular for its legendary curry houses. A few steps away, on the corner of Fournier Street and 
@@ -54,5 +59,10 @@ and expanded.
 
 <div style="font-size:.75em;">
 <p>This post is an excerpt from <em>Return of the Ripper</em> Appendix N: Inspirational Sources.<br />
-Part 1 of 8. Read part <a href="/rpg/mythic-london/">2</a>.</p>
+Part 1 of 8. Read part
+<a href="/rpg/mythic-london/">2</a>
+<a href="/rpg/spittle-fields/">3</a>
+<a href="/rpg/the-white-chappel/">4</a>
+<a href="/rpg/the-undercity/">5</a>
+6 7 8.</p>
 </div>

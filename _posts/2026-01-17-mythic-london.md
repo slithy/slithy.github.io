@@ -13,7 +13,12 @@ category: RPG
        Illustration by Oscar Zárate</figcaption>
 </figure>
 
-<span style="font-size:.75em;">Part 2 of 8. Read part <a href="/rpg/inspirational-sources/">1</a>.</span>
+<span style="font-size:.75em;">Part 2 of 8. Read part 
+<a href="/rpg/inspirational-sources/">1</a>
+<a href="/rpg/spittle-fields/">3</a>
+<a href="/rpg/the-white-chappel/">4</a>
+<a href="/rpg/the-undercity/">5</a>
+6 7 8.</span>
 
 The District of Spittle-Fields draws heavily on London's history and mythology. To find literary inspiration for a
 weird, otherworldly London, let us begin with the unholy trinity of Moorcock, Sinclair and Ackroyd.
@@ -27,14 +32,14 @@ To fully grasp Moorcock's vision of mythological London, one must look beyond hi
 stand-in for London in his literary fantasy, *Gloriana, or The Unfulfill'd Queen* (1978). And his magnum opus
 *Mother London* (1988) can be said to have the city of London as its central character:
 <blockquote>
-I drew from him my abiding interest in the mythology and legends of London…
+I drew from him my abiding interest in the mythology and legends of London&hellip;
 On walks he would speak of layered ruins like geological strata beneath our feet since unlike most old cities London
-bore few obvious signs of her antiquity…
+bore few obvious signs of her antiquity&hellip;
 all her old rivers are turned into sewers and entire temples, churches, citadels lie below her modern concrete.
 Traditionally Boadicea is buried under Platform Ten at King's Cross Station, Bran's magical head lies below the Celtic
 burial grounds of Parliament Hill, Gog and Magog, the giants who ruled Lud's Town before 1200 BC when the Trojans
 conquered, still sleep near Guildhall and King Lud, who was once a god, might be found frozen within the foundations
-of St Pauls…
+of St Pauls&hellip;
 Less exalted creatures like poor Annie Chapman, the Ripper's victim, continue to walk the meaner streets nearby.
 </blockquote>
 
@@ -48,14 +53,14 @@ undoubtably go mad.
 Moorcock also alludes to the ideas of the Multiverse developed in his Eternal Champion stories<sup><a href="#footnote-2">2</a></sup>:
 <blockquote>
 Past and future both comprise London's present and this is one of the city's chief attractions. Theories of Time are
-mostly simplistic… but I believe Time to be like a faceted jewel with an infinity of planes and layers impossible
-to either map or to contain…
+mostly simplistic&hellip; but I believe Time to be like a faceted jewel with an infinity of planes and layers impossible
+to either map or to contain&hellip;
 </blockquote>
 
 In his afterword to *Lud Heat: A Book of the Dead Hamlets*<sup><a href="#footnote-3">3</a></sup>, Moorcock praises the 
 visionary genius of fellow Londoner <strong>Iain Sinclair</strong>, who:
 <blockquote>
-… drags from London's amniotic silt the trove of centuries and presents it to us, still dripping, still stinking,
+&hellip;drags from London's amniotic silt the trove of centuries and presents it to us, still dripping, still stinking,
 still caked and frequently still defiantly kicking.
 </blockquote>
 
@@ -74,9 +79,9 @@ obelisk-shaped spires to two others<sup><a href="#footnote-4">4</a></sup>.
 Hawksmoor's churches are curiously lacking in traditional Christian symbology, incorporating classical and pagan 
 architectural elements instead. *Lud Heat* describes their architecture thus:
 <blockquote>
-Certain features are in common: extravagant design, massive, almost slave-built, strength…
-It shocks every time you glimpse one of the towers. They are shunned. Their strength is hybrid, awkward: an admix of Egyptian & Greek source matter…
-Necropolis Culture…
+Certain features are in common: extravagant design, massive, almost slave-built, strength&hellip;
+It shocks every time you glimpse one of the towers. They are shunned. Their strength is hybrid, awkward: an admix of Egyptian & Greek source matter&hellip;
+Necropolis Culture&hellip;
 the Great Mausoleum at Halicarnassus re-enacted in Bloomsbury.
 </blockquote>
 
@@ -90,10 +95,10 @@ which happen there, a resonance between geography and history.
 
 On the relationship between Christ Church Spitalfields and the Ripper murders, he says:
 <blockquote>
-I spoke of the unacknowledged magnetism & control-power, built-in code-force, of these places: …
-the ritual slaying of Marie Jeanette Kelly in the ground floor room of Miller's Court, directly opposite Christ Church…
+I spoke of the unacknowledged magnetism & control-power, built-in code-force, of these places: &hellip;
+the ritual slaying of Marie Jeanette Kelly in the ground floor room of Miller's Court, directly opposite Christ Church&hellip;
 The whole karmic programme of Whitechapel in 1888 moves around the fixed point of Christ Church, that Tower of the
-Winds &mdash; from the east in &mdash; closer & closer, until the risk of the final act is achieved…
+Winds &mdash; from the east in &mdash; closer & closer, until the risk of the final act is achieved&hellip;
 </blockquote>
 
 Alan Moore's *From Hell* and Moorcock's *Gloriana* draw heavily on Sinclair's psychogeographical vision.
@@ -116,7 +121,12 @@ including maps, plagues, crime and punishment and London's rivers.
 
 <div style="font-size:.75em;">
 <p>This post is an excerpt from <em>Return of the Ripper</em> Appendix N: Inspirational Sources.<br />
-Part 2 of 8. Part 3 coming soon.</p>
+Part 2 of 8. Read part
+<a href="/rpg/inspirational-sources/">1</a>
+<a href="/rpg/spittle-fields/">3</a>
+<a href="/rpg/the-white-chappel/">4</a>
+<a href="/rpg/the-undercity/">5</a>
+6 7 8.</p>
 </div>
 
 ## Notes
